@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Essencial para o reconhecimento facial
+deepface
+
+# Biblioteca principal de visão computacional, usada pela DeepFace e para captura de webcam
+opencv-python
+
+# Usada para manipulação de imagens, especialmente para integrar o vídeo do OpenCV com a interface do Tkinter
+Pillow
